@@ -9,7 +9,7 @@ OK
 ```
 translated (by machine 🤖) as:
 ```
-行
+OK
 ```
 
 
@@ -19,7 +19,7 @@ Yes
 ```
 translated (by machine 🤖) as:
 ```
-是的
+Yes
 ```
 
 
@@ -29,7 +29,7 @@ No
 ```
 translated (by machine 🤖) as:
 ```
-沒有
+No
 ```
 
 
@@ -49,7 +49,7 @@ New marker
 ```
 translated (by machine 🤖) as:
 ```
-新標誌
+新標記
 ```
 
 
@@ -59,7 +59,7 @@ Title
 ```
 translated (by machine 🤖) as:
 ```
-稱號
+標題
 ```
 
 
@@ -79,7 +79,7 @@ Do you really want to delete this marker?
 ```
 translated (by machine 🤖) as:
 ```
-你真的要刪除這個標記？
+您真的要刪除這個標記？
 ```
 
 
@@ -99,7 +99,7 @@ Could not copy coordinates to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-無法複製的坐標到剪貼板
+無法將座標複製到剪貼簿
 ```
 
 
@@ -109,7 +109,7 @@ Coordinates copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-坐標複製到剪貼板
+已複製座標到剪貼簿
 ```
 
 
@@ -119,7 +119,7 @@ Failed to access application save directory. Make sure that your device is not b
 ```
 translated (by machine 🤖) as:
 ```
-未能訪問應用程序的保存目錄。請確保您的設備不被電腦使用USB電纜訪問，並重新啟動應用程序。
+未能進入應用程序的保存目錄。請確保您的設備不被電腦使用USB線占用，並重新啟動應用程序。
 ```
 
 
@@ -139,7 +139,7 @@ All
 ```
 translated (by machine 🤖) as:
 ```
-所有
+全部
 ```
 
 
@@ -169,7 +169,7 @@ Are you sure you want to delete this folder? All markers associated to this fold
 ```
 translated (by machine 🤖) as:
 ```
-你確定要刪除這個文件夾？有關此文件夾的所有標記將被永久刪除！
+您確定要刪除這個文件夾？有關此文件夾的所有標記將被永久刪除！
 ```
 
 
@@ -189,7 +189,7 @@ Failed to rename the folder, the destination name already exists
 ```
 translated (by machine 🤖) as:
 ```
-無法重命名的文件夾，目標名稱已經存在
+無法重新命名文件夾，目標名稱已經存在
 ```
 
 
@@ -219,7 +219,7 @@ Could not write file.
 ```
 translated (by machine 🤖) as:
 ```
-無法寫入文件。
+文件無法寫入。
 ```
 
 
@@ -229,7 +229,7 @@ Import/Export
 ```
 translated (by machine 🤖) as:
 ```
-導入/導出
+匯入/匯出
 ```
 
 
@@ -239,7 +239,7 @@ Import markers
 ```
 translated (by machine 🤖) as:
 ```
-進口標誌
+匯入標記
 ```
 
 
@@ -249,7 +249,7 @@ File imported successfully
 ```
 translated (by machine 🤖) as:
 ```
-文件導入成功
+文件匯入成功
 ```
 
 
@@ -259,7 +259,7 @@ File import failed
 ```
 translated (by machine 🤖) as:
 ```
-文件導入失敗
+文件匯入失敗
 ```
 
 
@@ -269,7 +269,7 @@ Location services
 ```
 translated (by machine 🤖) as:
 ```
-位置服務
+定位服務
 ```
 
 
@@ -279,7 +279,7 @@ Location services are disabled. To get your current location you must enable the
 ```
 translated (by machine 🤖) as:
 ```
-位置服務被禁用。讓你的當前位置，您必須啟用它們。
+定位服務被關閉。要得到您的當前位置，您必須啟用它。
 ```
 
 
@@ -299,7 +299,7 @@ Searching&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-搜索...
+搜尋...
 ```
 
 
@@ -309,7 +309,7 @@ Search
 ```
 translated (by machine 🤖) as:
 ```
-搜索
+搜尋
 ```
 
 
@@ -329,7 +329,7 @@ Do you want to import the content of this file?
 ```
 translated (by machine 🤖) as:
 ```
-你想導入此文件的內容？
+您想匯入此文件的內容嗎？
 ```
 
 
@@ -359,7 +359,7 @@ Close
 ```
 translated (by machine 🤖) as:
 ```
-近
+關閉
 ```
 
 
@@ -369,7 +369,7 @@ Are you sure you want to delete the selected markers?
 ```
 translated (by machine 🤖) as:
 ```
-你確定要刪除選定的標記？
+您確定要刪除所選定的標記嗎？
 ```
 
 
@@ -409,7 +409,7 @@ Snapshot of my markers on Map Marker
 ```
 translated (by machine 🤖) as:
 ```
-我的標記上的快照Map Marker
+我的Map Marker上的標記快照
 ```
 
 
@@ -420,7 +420,7 @@ This snapshot was made with the app Map Marker:
 ```
 translated (by machine 🤖) as:
 ```
-此快照是用應用程序Map Marker ： 
+此快照是使用Map Marker製作 ： 
  %s
 ```
 
@@ -431,7 +431,7 @@ Processing data&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-處理數據......
+資料處理中......
 ```
 
 
@@ -441,7 +441,7 @@ You have unsaved modifications, do you want to save them?
 ```
 translated (by machine 🤖) as:
 ```
-你有未保存的修改，你想救他們？
+您有未保存的修改，要儲存它們嗎？
 ```
 
 
@@ -451,7 +451,7 @@ Use the long press on the map to create a new marker
 ```
 translated (by machine 🤖) as:
 ```
-使用長按地圖上創建一個新的標誌
+在地上長按來創建一個新的標記
 ```
 
 
@@ -471,7 +471,7 @@ Normal
 ```
 translated (by machine 🤖) as:
 ```
-正常
+一般
 ```
 
 
@@ -501,7 +501,7 @@ Hybrid
 ```
 translated (by machine 🤖) as:
 ```
-混合動力
+混合
 ```
 
 
@@ -512,7 +512,7 @@ Send me an email :-)
 ```
 translated (by machine 🤖) as:
 ```
-發現一個問題？有改進的想法？ 
+發現問題？有改進的想法？ 
 給我發email :-)
 ```
 
@@ -523,7 +523,7 @@ Send email&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-發送email&#8230;
+寄送email&#8230;
 ```
 
 
@@ -534,8 +534,8 @@ Rate it 5 stars :-)
 ```
 translated (by machine 🤖) as:
 ```
-你喜歡的應用程序？ 
-速率是5星:-)
+您喜歡該應用軟體？ 
+請給5星:-)
 ```
 
 
@@ -575,7 +575,7 @@ Meters
 ```
 translated (by machine 🤖) as:
 ```
-米
+公尺
 ```
 
 
@@ -585,7 +585,7 @@ Km
 ```
 translated (by machine 🤖) as:
 ```
-千米
+公里
 ```
 
 
@@ -595,7 +595,7 @@ Feet
 ```
 translated (by machine 🤖) as:
 ```
-腳
+英尺
 ```
 
 
@@ -605,7 +605,7 @@ Miles
 ```
 translated (by machine 🤖) as:
 ```
-萬里
+英里
 ```
 
 
@@ -615,7 +615,7 @@ Adjust map camera position when guiding to a marker location
 ```
 translated (by machine 🤖) as:
 ```
-引導到一個標記位置時，調整圖攝像機位置
+當導航到一個標記位置時，調整地圖相機位置
 ```
 
 
@@ -625,7 +625,7 @@ Keep screen on when guiding to a marker location
 ```
 translated (by machine 🤖) as:
 ```
-保持屏幕引導到一個標記位置上時，
+當導航到一個標記位置上時，保持螢幕開啟
 ```
 
 
@@ -635,7 +635,7 @@ Marker details copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-標記詳細信息複製到剪貼板
+標記詳細資訊複製到剪貼板
 ```
 
 
@@ -645,7 +645,7 @@ Long press to drag and move the marker
 ```
 translated (by machine 🤖) as:
 ```
-長按拖動和移動標記
+長按拖動標記
 ```
 
 
@@ -655,7 +655,7 @@ Error starting internal task manager, app will now exit
 ```
 translated (by machine 🤖) as:
 ```
-錯誤啟動內部的任務管理器，應用程序現在將退出
+內部啟動的任務管理器發生錯誤，應用程序現在將退出
 ```
 
 
@@ -685,7 +685,7 @@ Metric (Kilometers/Meters)
 ```
 translated (by machine 🤖) as:
 ```
-公制（公里/米）
+公制（公里/公尺）
 ```
 
 
@@ -695,7 +695,7 @@ Imperial (Miles/Feet)
 ```
 translated (by machine 🤖) as:
 ```
-帝國（英里/英尺）
+英制（英里/英尺）
 ```
 
 
@@ -705,7 +705,7 @@ There is a problem with Google Play Services: it needs to be installed, updated 
 ```
 translated (by machine 🤖) as:
 ```
-有一個問題Google Play Services ：它需要被安裝，更新或激活。點擊OK，試圖解決這個問題。
+Google Play Services發生問題 ：它需要被安裝，更新或啟動。點擊OK，嘗試解決這個問題。
 ```
 
 
@@ -725,7 +725,7 @@ If you like my app you can reward me by taking the time to give a good rating :-
 ```
 translated (by machine 🤖) as:
 ```
-如果你喜歡我的應用程序，你可以抽空獎勵我給予良好的評價:-)
+如果您喜歡我的應用程式，您可以花點時間給予好評:-)
 ```
 
 
@@ -749,7 +749,7 @@ gave a rating
 translated (by machine 🤖) as:
 ```
 我已經
-給評級
+給評價
 ```
 
 
@@ -760,8 +760,8 @@ remind me
 ```
 translated (by machine 🤖) as:
 ```
-也許以後
-提醒我
+稍後
+再提醒我
 ```
 
 
@@ -772,7 +772,7 @@ do not remind me
 ```
 translated (by machine 🤖) as:
 ```
-也許以後
+稍後
 不要再提醒我
 ```
 
@@ -783,7 +783,7 @@ Could not find the place
 ```
 translated (by machine 🤖) as:
 ```
-找不到的地方
+找不到這個地方
 ```
 
 
@@ -793,7 +793,7 @@ Could not find another map application
 ```
 translated (by machine 🤖) as:
 ```
-無法找到另一個地圖應用
+無法找到另一個地圖應用程式
 ```
 
 
@@ -803,7 +803,7 @@ Move the map around to place your marker where you want and click OK to place it
 ```
 translated (by machine 🤖) as:
 ```
-移動地圖將您的標誌，你想，然後單擊確定將其放置
+讓您標記跟隨地圖移動，然後點選ok將其放置
 ```
 
 
@@ -813,7 +813,7 @@ Imported marker
 ```
 translated (by machine 🤖) as:
 ```
-進口標誌
+匯入標記
 ```
 
 
@@ -843,7 +843,7 @@ Decimal degrees
 ```
 translated (by machine 🤖) as:
 ```
-十進制度
+經緯度十進位制
 ```
 
 
@@ -853,7 +853,7 @@ Degrees decimal minutes
 ```
 translated (by machine 🤖) as:
 ```
-小數度分鐘
+經緯度十進位制:分
 ```
 
 
@@ -893,7 +893,7 @@ GPS and wireless networks or magnetic sensor
 ```
 translated (by machine 🤖) as:
 ```
-全球定位系統和無線網絡或磁傳感器
+GPS和無線網絡或磁性傳感器
 ```
 
 
@@ -903,7 +903,7 @@ Magnetic sensor only
 ```
 translated (by machine 🤖) as:
 ```
-只有磁傳感器
+只有磁性傳感器
 ```
 
 
@@ -913,7 +913,7 @@ Used compass sensor
 ```
 translated (by machine 🤖) as:
 ```
-二手指南針傳感器
+已使用指南針傳感器
 ```
 
 
@@ -963,7 +963,7 @@ Marker popup style
 ```
 translated (by machine 🤖) as:
 ```
-標記彈出式的
+彈出式標記
 ```
 
 
@@ -983,7 +983,7 @@ Bubble
 ```
 translated (by machine 🤖) as:
 ```
-泡沫
+氣泡
 ```
 
 
@@ -1013,7 +1013,7 @@ Always
 ```
 translated (by machine 🤖) as:
 ```
-總
+總是
 ```
 
 
@@ -1023,7 +1023,7 @@ Crosshair display
 ```
 translated (by machine 🤖) as:
 ```
-十字線顯示
+顯示十字線
 ```
 
 
@@ -1033,7 +1033,7 @@ Coordinates window
 ```
 translated (by machine 🤖) as:
 ```
-坐標窗口
+坐標視窗
 ```
 
 
@@ -1053,7 +1053,7 @@ Lng:
 ```
 translated (by machine 🤖) as:
 ```
-LNG：
+緯度：
 ```
 
 
@@ -1073,7 +1073,7 @@ Advanced
 ```
 translated (by machine 🤖) as:
 ```
-先進
+進階
 ```
 
 
@@ -1113,7 +1113,7 @@ Markers ignored on import (duplicates): %1$d
 ```
 translated (by machine 🤖) as:
 ```
-標記忽略進口（重複）： %1$d
+忽略匯入標記（重複）： %1$d
 ```
 
 
@@ -1123,7 +1123,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-%1$d標誌
+%1$d標記
 ```
 
 
@@ -1133,7 +1133,7 @@ No auto naming
 ```
 translated (by machine 🤖) as:
 ```
-沒有自動命名
+不自動命名
 ```
 
 
@@ -1143,7 +1143,7 @@ Auto naming "number"
 ```
 translated (by machine 🤖) as:
 ```
-自動命名“號”
+自動命名“編號”
 ```
 
 
@@ -1153,7 +1153,7 @@ Auto naming "Marker number"
 ```
 translated (by machine 🤖) as:
 ```
-自動命名“標記號”
+自動命名“標記編號”
 ```
 
 
@@ -1163,7 +1163,7 @@ New marker auto naming
 ```
 translated (by machine 🤖) as:
 ```
-新標誌的自動命名
+自動命名新標記
 ```
 
 
@@ -1183,7 +1183,7 @@ Waiting for location&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-等待位置...
+正在取得位置...
 ```
 
 
@@ -1193,7 +1193,7 @@ Open the help page and see the FAQ
 ```
 translated (by machine 🤖) as:
 ```
-打開幫助頁面，看到的常見問題解答
+打開幫助頁面，觀看常見問題解答
 ```
 
 
@@ -1203,7 +1203,7 @@ Features
 ```
 translated (by machine 🤖) as:
 ```
-產品特點
+特點
 ```
 
 
@@ -1213,7 +1213,7 @@ View the list of upcoming features for the next app version
 ```
 translated (by machine 🤖) as:
 ```
-查看即將推出的功能列表中的下一個版本的應用程序
+查看下一個版本的應用程序即將推出的功能列表
 ```
 
 
@@ -1233,7 +1233,7 @@ About
 ```
 translated (by machine 🤖) as:
 ```
-大約
+關於
 ```
 
 
@@ -1283,7 +1283,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-&lt;！[CDATA [&lt;HTML&gt; &lt;BODY&gt; &lt;B&gt;為了得到正確的正北方向的指南針，你需要正確校準你的手機。照片要校準你的手機，只需通過繪製8移動它該舉動必須是廣泛的和更好的效率重複3次左右。照片可以在任何時候做這個校準你的手機。&lt;/ B&gt;點擊看校準有其局限性，可能是​​不夠的對付附近的干擾，如：英•大的金屬物體英•電子設備英•磁鐵英•汽車/巴士/火車/飛機內部&lt;/ body&gt; &lt;/ HTML&gt;
+&lt;！[CDATA [&lt;HTML&gt; &lt;BODY&gt; &lt;B&gt;為了得到正確的方向，您需要校正您的手機。按照圖片校正你的手機，只需透過8字形移動，該動作必須是大範圍重複3次左右使其得到更好的精準度。可以依照圖片在任何時候做這個校正您的手機。&lt;/ B&gt;點擊查看校正有其局限性，可能是​​不夠的對付附近的干擾，如：英•大型金屬物體英•電子設備英•磁鐵英•汽車/巴士/火車/飛機內部&lt;/ body&gt; &lt;/ HTML&gt;
 ```
 
 
@@ -1293,7 +1293,7 @@ Badges
 ```
 translated (by machine 🤖) as:
 ```
-徽章
+獎章
 ```
 
 
@@ -1303,7 +1303,7 @@ Buy a donation badge
 ```
 translated (by machine 🤖) as:
 ```
-購買捐贈徽章
+購買捐贈獎章
 ```
 
 
